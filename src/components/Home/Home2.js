@@ -22,7 +22,7 @@ function Home2() {
               <i>
                 <b className="purple"> full-stack developer </b>
               </i>
-              . But i like work as back-end developer
+              . But i like to work as back-end developer
               <br />
               <br />
               I also apply my passion for developing products
